@@ -28,7 +28,7 @@ echo -e "DEBUG" > /etc/container_environment/LOG_LEVEL
 echo -e "''" > /etc/container_environment/SMS_PREFIX
 
 #TTS - this is a free acount KEY - please create your personal key (http://www.voicerss.org/)
-echo -e "f4840af6675b4d20a8d96dea8466296b" > /etc/container_environment/VOICERSS_KEY
+echo -e "2a38db9b5ede47d0888c21f1e7c88028" > /etc/container_environment/VOICERSS_KEY
 
 #RVD_LOCATION
 echo -e "/var/restcomm/rvd/workspace" > /etc/container_environment/RVD_LOCATION
